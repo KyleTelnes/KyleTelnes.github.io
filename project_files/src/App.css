@@ -1,0 +1,55 @@
+.aboutContent {
+    padding: 5%;
+}
+
+.portfolioContent {
+    padding: 5%;
+}
+
+.contactContent {
+    padding: 5%;
+    background-color: rgba(33, 33, 33, 0.915);
+    
+}
+
+p {
+    font-size: x-large;
+}
+
+.col {
+    display: flex;
+    justify-content: center;
+}
+
+h3.whiteText {
+    color: white;
+}
+
+hr.solid {
+    width: 50%;
+    border-top: 3px solid #bbb;
+}
+
+.linkedInBtn {
+    width: 20;
+    height: 20;
+}
+
+.githubBtn {
+    border-color: white;
+    background-color: white;
+}
+
+.githubBtn:hover {
+    border-color: white;
+    background-color: white;
+}
+
+.linkedInBtn {
+    border-color: white;
+    background-color: white;
+}
+
+#separate {
+    width: 20;
+}
